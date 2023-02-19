@@ -15,7 +15,7 @@ It provides an overview of the different sampling methods available and their be
 ## Sampling Technique used
 1.Simple Random Sampling
 
-2.Sratified Sampling
+2.Stratified Sampling
 
 3.Cluster Sampling
 
