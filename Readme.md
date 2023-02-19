@@ -45,3 +45,8 @@ git clone https://github.com/nimish-star/Sampling.git
 ## Feedback
 
 If you have any feedback, please reach me at nimishlakhmani@gmail.com
+
+## Results
+
+The Sample created from 'Sratified_Sampling' Technique gives the highest accuracy on model 'Random Forest Classifier' of 1.0.
+ 
